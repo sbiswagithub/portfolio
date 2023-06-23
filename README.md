@@ -1,2 +1,2 @@
-# resume
-My Resume from Complete Web Developer
+# portfolio
+My Portfolio from Complete Web Developer
